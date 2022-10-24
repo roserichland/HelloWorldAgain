@@ -2,6 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.idea/
+*.iml
 
 ### Eclipse ###
 .apt_generated
@@ -14,6 +16,10 @@ out/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
+.metadata/
+.settings/
+.recommenders/
+RemoteSystemsTempFiles/
 
 ### NetBeans ###
 /nbproject/private/
@@ -27,3 +33,10 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+*.class
+
+# BlueJ files
+*.ctxt
+doc/
+
