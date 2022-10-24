@@ -2,7 +2,11 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-*.idea/
+<<<<<<< HEAD
+=======
+.idea/
+>>>>>>> 17c5de5fcfc9929f26e74cb4a73b37a2c4d3841d
+.idea/
 *.iml
 
 ### Eclipse ###
