@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6aec4c7c-b964-4b21-ab24-ff9d1546fdbd" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/edu/pcc/cis/HelloWorldAgain/HelloWorldAgainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
